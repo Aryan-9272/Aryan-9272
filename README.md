@@ -29,6 +29,4 @@
 <a href="https://linkedin.com/in/aryan-raj-429b2321b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-raj-429b2321b" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aryanraj_92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aryanraj_92" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aryan92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aryan92" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aryanrajjaiswal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryanrajjaiswal2" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aryanrajjaiswal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aryanrajjaiswal2" height="30" width="40" /></a>
 </p>
