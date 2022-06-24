@@ -1,5 +1,5 @@
 <h1 align="center" style="color :green">Hi 👋, I'm Aryan Raj</h1>
-<h3 align="center">:star:An aspiring full stack developer || An Incoming SWE intern at Microsoft || An NITIAN and a CP enthusiast.:star:</h3>
+<h3 align="center">:star: An aspiring full stack developer || An Incoming SWE intern at Microsoft || An NITIAN and a CP enthusiast.</h3>
 <img align="right" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" height="300px">
 
 - 🔭 I’m currently working on **An interactive tennis game which supports up to 4 players.**
