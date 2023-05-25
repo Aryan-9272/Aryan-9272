@@ -1,10 +1,10 @@
 <h1 align="center" style="color :green">Hi 👋, I'm Aryan Raj</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryan-9272&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-9272" /> </p>
 <hr>
-<h2 align="center">:star: An aspiring full stack developer.</h2>
+<h3 align="center">:star: An aspiring full stack developer.</h3>
 
 <p align="center">
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%">
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 </p> 
   
 - 🔭 I’m currently working on **An interactive tennis game that supports up to 4 players.**
